@@ -2,6 +2,10 @@
   "title": "exemple-2",
   "description": "This is a description",
   "github_repository": "platane/thirteen-sandbox",
+  "images": {
+    "small": "cat.jpg",
+    "big": "other-cat.jpg"
+  },
   "authors": [
     {
       "github": "platane"
