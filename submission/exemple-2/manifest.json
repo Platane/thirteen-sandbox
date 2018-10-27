@@ -1,0 +1,10 @@
+{
+  "title": "exemple-2",
+  "description": "This is a description",
+  "github_repository": "platane/thirteen-sandbox",
+  "authors": [
+    {
+      "github": "platane"
+    }
+  ]
+}
