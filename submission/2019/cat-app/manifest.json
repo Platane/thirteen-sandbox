@@ -1,0 +1,14 @@
+{
+  "title": "cat-app",
+  "description": "This is a description",
+  "github_repository": "platane/thirteen-sandbox",
+  "images": {
+    "small": "cat.jpg",
+    "big": "other-cat.png"
+  },
+  "authors": [
+    {
+      "github": "platane"
+    }
+  ]
+}
