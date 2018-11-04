@@ -2,7 +2,7 @@
   "title": "eight",
   "description": "This is a description\nwith lien break\n\none",
   "github_repository": "platane/thirteen-sandbox",
-  "categories": ["aaa"],
+  "categories": ["desktop"],
   "images": {
     "small": "cat.jpg",
     "big": "other-cat.png"
