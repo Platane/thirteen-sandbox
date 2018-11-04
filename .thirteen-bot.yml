@@ -16,6 +16,6 @@ reviewers:
     - @platane
             
 categories:
-    mobile
-    desktop
-    server
+    - mobile
+    - desktop
+    - server
