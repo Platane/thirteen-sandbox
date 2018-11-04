@@ -15,3 +15,7 @@ images:
 reviewers:
     - @platane
             
+categories:
+    mobile
+    desktop
+    server
