@@ -1,0 +1,17 @@
+{
+  "title": "submission",
+  "description": "This is a description\nwith lien break\n\none",
+  "github_repository": "platane/thirteen-sandbox",
+  "categories": ["desktop"],
+  "images": {
+    "small": "1659821.jpeg",
+    "big": "1659822.jpeg"
+  },
+  "authors": [
+    {
+      "github": "platane"
+    }
+  ],
+  "bundle_index": "run.html",
+  "bundle_path": "game/game.zip"
+}
