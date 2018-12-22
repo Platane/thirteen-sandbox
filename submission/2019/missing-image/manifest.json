@@ -1,0 +1,15 @@
+{
+  "title": "submission",
+  "description": "This is a description\nwith lien break\n\none",
+  "github_repository": "platane/thirteen-sandbox",
+  "categories": ["desktop"],
+  "images": {
+    "small": "1659821.jpeg",
+    "big": "xxxx.jpeg"
+  },
+  "authors": [
+    {
+      "github": "platane"
+    }
+  ]
+}
