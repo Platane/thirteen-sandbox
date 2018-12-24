@@ -4,8 +4,8 @@
   "github_repository": "platane/thirteen-sandbox",
   "categories": ["desktop"],
   "images": {
-    "small": "1659821.jpeg",
-    "big": "1659822.jpeg"
+    "small": "img/snall/1659821.jpeg",
+    "big": "img/1659822.jpeg"
   },
   "authors": [
     {
